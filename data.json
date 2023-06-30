@@ -2,7 +2,7 @@
     "shoes" : [  
         {
           "id": "1",
-          "make": "Nike",
+          "brand": "Nike",
           "image": "https://i.postimg.cc/sfLgCSsg/LT-logo.png",
           "price": "2323"
         },
