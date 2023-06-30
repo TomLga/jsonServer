@@ -53,8 +53,30 @@
           "qualification":"currently busy"
       
         }
+    ],
 
-
+    "projects":[
+      {
+        "id":"1",
+        "image":"https://i.postimg.cc/5NrNgDf1/intro-pic.jpg",
+        "name":"name of projects",
+        "github":"git hub link",
+        "net":"netifly link"
+      },
+      {
+        "id":"2",
+        "image":"https://i.postimg.cc/5NrNgDf1/intro-pic.jpg",
+        "name":"name of projects",
+        "github":"git hub link",
+        "net":"netifly link"
+      },
+      {
+        "id":"3",
+        "image":"https://i.postimg.cc/5NrNgDf1/intro-pic.jpg",
+        "name":"name of projects",
+        "github":"git hub link",
+        "net":"netifly link"
+      }
     ]
 
     }
