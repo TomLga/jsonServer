@@ -24,6 +24,37 @@
           "image": "https://i.postimg.cc/sfLgCSsg/LT-logo.png",
           "price": "2323"
         }
+    ],
+
+    "education":[
+        {
+          "id":"1",
+          "place":"Modderdam High",
+          "time":"2014 to 2018",
+          "qualification": "Grade 12 (Matric)"
+        },
+        {
+          "id":"2",
+          "place":"College Of Cape Town",
+          "time":"2020-2021",
+          "qualification": "N1- n3 building and civil"
+        },
+        {
+          "id":"3",
+          "place":"Rosebank College",
+          "time":" feb to may 2022",
+          "qualification": "incompelted Web Dev"
+        
+        },
+        {
+          "id":"4",
+          "place":"Life Choice",
+          "time":" feb 2022- may 2022",
+          "qualification":"currently busy"
+      
+        }
+
+
     ]
 
     }
